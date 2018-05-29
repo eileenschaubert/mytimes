@@ -1,0 +1,26 @@
+/* header info return to add spacing, etc*/
+.top {
+  display: flex;
+  font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;
+  color: MediumAquamarine;
+  border-bottom: 1px solid black;
+  background-color: white;
+  align-items: center;
+  width: 100%;
+  position: fixed;
+}
+.logo {
+  border: 1px solid black;
+  display: flex;
+}
+.top-nav {
+  display: flex;
+}
+li {
+  display: inline-block;
+  text-align: center;
+  padding: 5px;
+  background-color: lightblue;
+}
